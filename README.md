@@ -20,7 +20,7 @@ Algorithms can be executed within UI with bid war or sniping war, with random ge
 <img src="./WebResources/UI.png" >
 
 
-You can perform algorithmic trading with simple excel inputs. 
+You can perform algorithmic trading with simple excel inputs.
 
 For example, you want to snipe multiple card with predefined attributes and predefined flooring prices, then you can inject the excel files as below into CrocodileFut:
 
@@ -34,16 +34,6 @@ For example, you want to snipe multiple card with predefined attributes and pred
 | Saeed Al Owairan |         |                            |             |           |             |                           |      | 17000    |
 |                  |         | TEAM OF THE SEASON MOMENTS | Defenders   |           |             | LaLiga Santander (ESP 1)  |      | 28000    |
 |                  |         | TEAM OF THE SEASON MOMENTS | Defenders   |           |             | Premier League (ENG 1)    |      | 25000    |
-|                  |         | FUT Heroes                 | Defenders   |           |             |                           |      | 14000    |
-|                  |         | FUT Heroes                 | GK          |           |             |                           |      | 13000    |
-|                  |         | Team of the Season         |             |           |             |                           |      | 15000    |
-|                  |         | Team of the Season         |             |           |             |                           |      | 16000    |
-|                  |         | Team of the Season         |             |           |             |                           |      | 16000    |
-|                  |         | Team of the Season         |             |           |             |                           |      | 16000    |
-|                  |         | TEAM OF THE SEASON MOMENTS |             |           |             | Premier League (ENG 1)    |      | 26000    |
-|                  |         | World Cup Hero             |             |           | Argentina   |                           |      | 32000    |
-|                  |         | World Cup Hero             |             |           | Netherlands |                           |      | 32000    |
-
 
 ## Running the bot
 If you have python, just install required packages, modify the main.cmd file. Below is example from mine
