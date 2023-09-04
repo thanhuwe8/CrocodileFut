@@ -6,14 +6,16 @@ This project is a trading bot that buys and sells players on the FUT (FIFA Ultim
 
 Built in Python, this bot uses [Selenium](https://www.selenium.dev/documentation/en/) to interact with FUT Webapp via [ChromeDriver](https://www.chromium.org/) and uses [Tkinter](https://wiki.python.org/moin/TkInter) as user interface
 
+If you use this codebase/app, use this at your own risk
 
 ## Overview & Features
 CrocodileFut facilitate different kinds of methodology to trade in the market. Some methodologies including but not limited to:
-- Buy Low get High 
+- Buy Low Sell High 
+- Shadow/Hunter chemistry arbitrage
 - Follow the trend (SBC supply demand etc.)
 - Statistical arbitrage between different data providers (FUTBIN, FUTWIZ, FUTHEAD, WEFUT etc.)
-- Market making special card
-- Sniping high-end card
+- Market making special card with low supply high demand
+- Sniping high-end card such as Icon
 
 Algorithms can be executed within UI with bid war or sniping war, with random generator waiting time and customized setup (wait time, search per loop, break, etc.):
 
