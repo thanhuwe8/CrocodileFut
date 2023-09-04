@@ -62,6 +62,6 @@ pip install webdriver-manager
 ```
  The workspace path is setup as follow:
 
-<img src=".WebResources/VScode workspace.png">
+<img src="./WebResources/VScode workspace.png">
 
 ## Roadmap for EAFC24: Any improvement, ideas are welcomed!
