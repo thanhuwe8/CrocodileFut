@@ -10,5 +10,3 @@ pip install tk
 pip install ttkbootstrap
 pip install undetected-chromedriver
 pip install webdriver-manager
-@REM 
-pip install webdriver-manager
